@@ -1,0 +1,10 @@
+.tablegreen {
+    background-color: beige;
+    width: 100%;
+    border-collapse: collapse; /* Ensures that cell borders are combined */
+}
+
+.tablegreen th, .tablegreen td {
+    padding: 10px; /* Some padding for visual appeal */
+    border: 1px solid white; /* Borders for individual cells */
+}
