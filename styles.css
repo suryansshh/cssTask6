@@ -8,3 +8,7 @@
     padding: 10px; /* Some padding for visual appeal */
     border: 1px solid white; /* Borders for individual cells */
 }
+.roundborder {
+    border-radius: 8px;
+    border: 1px solid #000; /* for visual reference */
+}
